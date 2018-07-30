@@ -1,0 +1,36 @@
+#Soal pertama:
+1. Mengetahui rumus hukum newton 2
+2. Mengetahui berapa massa mobil
+3. Mengetahui percepatan setelah didorong oleh 3 orang
+4. Mencari resultan dengan mengoperasikan rumus hukum newton 2
+5. mengetahui resultan gaya mobil
+#Soal kedua:
+1. Membagi jumlah tahun dengan 4
+2. Jika tidak habis dibagi 4 maka bukan tahun kabisat
+3. jika habis dibagi 4 dan tidak habis dibagi 100 maka tahun kabisat
+4. Jika habis dibagi 4, habis dibagi 100 dan habis dibagi 400 berarti tahun kabisat
+#Soal ketiga:
+1. Masukkan baju ke-2 setelah baju pertama dimasukkan
+2. Masukkan baju ke-3 setelah baju ke-2 dimasukkan
+3. Masukkan baju ke-4 setelah baju ke-3 dimasukkan
+4. Masukkan baju ke-5 setelah baju ke-4 dimasukkan
+5. Masukkan baju ke-6 setelah baju ke-5 dimasukkan
+6. Masukkan baju ke-7 setelah baju ke-6 dimasukkan
+7. Masukkan baju ke-8 setelah baju ke-7 dimasukkan
+8. Masukkan baju ke-9 setelah baju ke-8 dimasukkan
+9. Masukkan baju ke-10 setelah baju ke-9 dimasukkan
+10. Masukkan baju ke-11 setelah baju ke-10 dimasukkan
+11. Masukkan baju ke-12 setelah baju ke-11 dimasukkan
+12. Masukkan baju ke-13 setelah baju ke-12 dimasukkan
+13. Masukkan baju ke-14 setelah baju ke-13 dimasukkan
+14. Masukkan baju ke-15 setelah baju ke-14 dimasukkan
+15. Masukkan baju ke-16 setelah baju ke-15 dimasukkan
+16. Masukkan baju ke-17 setelah baju ke-16 dimasukkan
+17. Masukkan baju ke-18 setelah baju ke-17 dimasukkan
+18. Masukkan baju ke-19 setelah baju ke-18 dimasukkan
+19. Masukkan baju terakhir setelah baju ke-19 di Masukkan
+20. Nyalakan mesin cuci setelah baju terakhir dimasukkan
+#Soal keempat
+1. Guru akan memeriksa satu per satu kuku dari 40 siswa
+2. Guru memuji jika tidak ada satu pun siswa yang kukunya panjang
+3. Guru akan menghukum siswa yang kukunya panjang
